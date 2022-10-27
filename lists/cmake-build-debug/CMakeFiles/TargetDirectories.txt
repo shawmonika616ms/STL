@@ -1,0 +1,3 @@
+D:/STL/lists/cmake-build-debug/CMakeFiles/main.dir
+D:/STL/lists/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/STL/lists/cmake-build-debug/CMakeFiles/rebuild_cache.dir

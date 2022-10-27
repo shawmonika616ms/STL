@@ -1,0 +1,4 @@
+D:/STL/vectors/cmake-build-debug/CMakeFiles/vectors.dir
+D:/STL/vectors/cmake-build-debug/CMakeFiles/Example.dir
+D:/STL/vectors/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/STL/vectors/cmake-build-debug/CMakeFiles/rebuild_cache.dir
